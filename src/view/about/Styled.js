@@ -64,12 +64,6 @@ export const Li = styled.li`
   }
 `
 
-export const F = styled.p `
-  margin: 0px;
-  padding-bottom: 20px;
-  font-family: Sans-serif;
-`
-
 export const N = styled.p `
   padding: 0px;
   margin: 0px;
