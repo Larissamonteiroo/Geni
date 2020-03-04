@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import { Body, Lista, H1, List, Li, F, N, Ul } from './Styled'
+import { Body, Lista, H1, List, Li, N, Ul } from './Styled'
 import anderson from './img/Anderson.png'
 import gabi from './img/Gabriela.png'
 import lari from './img/Larissa.png'
