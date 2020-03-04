@@ -4,7 +4,7 @@ export const Body = styled.body`
 `
 
 export const Section = styled.section`
-  max-width: 1366px;
+  max-width: 100%;
   margin: 0 auto;
   background-image: linear-gradient(to right,  #7FA01D, #425607);
   display: flex;
@@ -28,7 +28,7 @@ export const Lista = styled.section`
 `
 
 export const Title = styled.section`
-  max-width: 1366px;
+  max-width: 100%;
   justify-content: center;
   padding: 5% 0;
   display: flex;
@@ -82,7 +82,7 @@ export const Ul = styled.ul`
 `
 
 export const H1 = styled.section`
-  max-width: 1366px;
+  max-width: 100%;
   display: flex;
   color: #0084D7; 
   h1 {
