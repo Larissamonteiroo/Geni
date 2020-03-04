@@ -14,37 +14,31 @@ export default class Membros extends Component {
         {
           id: 1,
           nome: "Anderson",
-          funcoes: 'Marketing',
           figure: anderson
         },
         {
           id: 2,
           nome: "Gabriela",
-          funcoes: 'Design Ui/Ux',
           figure: gabi
         },
         {
           id: 3,
           nome: "Larí­ssa",
-          funcoes: 'Full Stack',
           figure: lari
         },
         {
           id: 4,
           nome: "Nathalia",
-          funcoes: 'Rede Sociais',
           figure: naty
         },
         {
           id: 5,
           nome: "Vladimir",
-          funcoes: 'Comunicação',
           figure: junior
         },
         {
           id: 6,
           nome: "Márcio",
-          funcoes: 'Full Stack',
           figure: marcio
         }
       ]};
@@ -65,7 +59,6 @@ export default class Membros extends Component {
                   <img src={nomes.figure} alt='fotosImg'/>
                   <br/> 
                   <N>{nomes.nome}</N><br/>
-                  <F>{nomes.funcoes}</F>
                 </Li> 
                 )}
             </Ul>
