@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const Home1 = styled.section `
-  max-width: 1366px;
+  max-width: 100%;
   height: 645px;
   background-image: linear-gradient(to right,  #0084D7, #0266A5);
   color: #fff;
@@ -27,7 +27,7 @@ export const Home1 = styled.section `
 `
 
 export const Home2 = styled.section `
-  max-width: 1366px;
+  max-width: 100%;
   height: 604px;
   background: #fff;
   color: #0084D7;
@@ -52,7 +52,7 @@ export const Home2 = styled.section `
 `
 
 export const Home3 = styled.section `
-  max-width: 1366px;
+  max-width: 100%;
   height: 604px;
   background-color: #7FA01D;
   color: #fff;
@@ -76,7 +76,7 @@ export const Home3 = styled.section `
 `
 
 export const Home4 = styled.section `
-  max-width: 1366px;
+  max-width: 100%;
   height: 604px;
   background: #fff;
   color: #0084D7;
