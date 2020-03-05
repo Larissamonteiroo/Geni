@@ -9,7 +9,8 @@ export default function Cabecalho() {
     <Header>
       <Picture>
         <Link to='/'>
-          <img src={logo} alt="Contorno do Brasil com um pino de localização com as cores da bandeira LGBT" height="87" />       
+          <img src={logo} alt="Contorno do Brasil com um pino de localização com as cores da bandeira LGBT" height="87" />   
+          <p>GENI</p>
         </Link>
       </Picture>
 
