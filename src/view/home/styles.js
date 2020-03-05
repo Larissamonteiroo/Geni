@@ -18,7 +18,7 @@ export const Home1 = styled.section `
   p {
     font-family: 'Raleway';
     font-weight: 600;
-    font-size: 23px;
+    font-size: 24px;
     padding-top: 15%;
     padding-left: 5%;
     padding-right: 10%;
