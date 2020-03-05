@@ -25,19 +25,19 @@ export default class Membros extends Component {
         {
           id: 3,
           nome: "Larí­ssa",
-          sobrenome: " Monteiro"
+          sobrenome: " Monteiro",
           figure: lari
         },
         {
           id: 4,
           nome: "Junior",
-          sobrenome: " Sant'ana"
+          sobrenome: " Sant'ana",
           figure: junior
         },
         {
           id: 5,
           nome: "Marcio",
-          sobrenome: " Vinicius"
+          sobrenome: " Vinicius",
           figure: marcio
         }
       ]};
