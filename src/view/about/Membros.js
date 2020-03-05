@@ -12,27 +12,32 @@ export default class Membros extends Component {
       membros: [
         {
           id: 1,
-          nome: "Anderson Barra",
+          nome: "Anderson",
+          sobrenome: " Barra",
           figure: anderson
         },
         {
           id: 2,
-          nome: "Gabriela Rothje",
+          nome: "Gabriela",
+          sobrenome: " Rothje",
           figure: gabi
         },
         {
           id: 3,
-          nome: "Larí­ssa Monteiro",
+          nome: "Larí­ssa",
+          sobrenome: " Monteiro"
           figure: lari
         },
         {
           id: 4,
-          nome: "Junior Sant'ana",
+          nome: "Junior",
+          sobrenome: " Sant'ana"
           figure: junior
         },
         {
           id: 5,
-          nome: "Marcio Vinicius",
+          nome: "Marcio",
+          sobrenome: " Vinicius"
           figure: marcio
         }
       ]};
@@ -52,7 +57,7 @@ export default class Membros extends Component {
                 <Li key={nomes.id}>
                   <img src={nomes.figure} alt='fotosImg'/>
                   <br/> 
-                  <N>{nomes.nome}</N><br/>
+                  <N>{nomes.nome}{nomes.sobrenome}</N><br/>
                 </Li> 
                 )}
             </Ul>
