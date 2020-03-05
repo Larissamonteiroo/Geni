@@ -23,6 +23,7 @@ export const Home1 = styled.section `
     padding-left: 5%;
     padding-right: 10%;
     width: 600px;
+    text-align: center;
   }
 `
 
