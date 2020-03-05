@@ -4,7 +4,6 @@ import { Body, Lista, H1, List, Li, N, Ul } from './Styled'
 import anderson from './img/Anderson.png'
 import gabi from './img/Gabriela.png'
 import lari from './img/Larissa.png'
-import naty from './img/Nathalia.png'
 import junior from './img/Junior.png'
 import marcio from './img/Marcio.png'
 
@@ -28,16 +27,11 @@ export default class Membros extends Component {
         },
         {
           id: 4,
-          nome: "Nathalia",
-          figure: naty
-        },
-        {
-          id: 5,
           nome: "Vladimir",
           figure: junior
         },
         {
-          id: 6,
+          id: 5,
           nome: "Márcio",
           figure: marcio
         }
