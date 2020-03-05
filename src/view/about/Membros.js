@@ -12,27 +12,27 @@ export default class Membros extends Component {
       membros: [
         {
           id: 1,
-          nome: "Anderson",
+          nome: "Anderson Barra",
           figure: anderson
         },
         {
           id: 2,
-          nome: "Gabriela",
+          nome: "Gabriela Rothje",
           figure: gabi
         },
         {
           id: 3,
-          nome: "Larí­ssa",
+          nome: "Larí­ssa Monteiro",
           figure: lari
         },
         {
           id: 4,
-          nome: "Vladimir",
+          nome: "Junior Sant'ana",
           figure: junior
         },
         {
           id: 5,
-          nome: "Márcio",
+          nome: "Marcio Vinicius",
           figure: marcio
         }
       ]};
