@@ -16,6 +16,10 @@ export const Nav = styled.nav`
     font-weight: 600;
     color: #fff;
     text-decoration: none;
+    &:hover {
+      text-decoration: none;
+      color: #C4C4C4;
+    }
   }
 `
 
@@ -26,12 +30,15 @@ export const Picture = styled.nav`
   padding-left: 5%;
   a {
     display: flex;
-    font-size: 30px;
-    font-family: 'Schoolbell', cursive;
     color: #fff;
-    text-decoration: none;
+    &:hover {
+      text-decoration: none;
+      color: #fff;
+    }
   }
   p {
+    font-size: 30px;
+    font-family: 'Schoolbell', cursive;
     padding-top: 52px;
   }
 `
