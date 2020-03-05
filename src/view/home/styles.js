@@ -70,7 +70,7 @@ export const Home3 = styled.section `
   p {
     font-family: 'Raleway';
     font-weight: 600;
-    font-size: 30px;
+    font-size: 28px;
     padding-top: 18%;
     padding-right: 10%;
     width: 580px;
