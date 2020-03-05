@@ -23,7 +23,6 @@ export const Home1 = styled.section `
     padding-left: 5%;
     padding-right: 10%;
     width: 600px;
-    text-align: center;
   }
 `
 
@@ -49,7 +48,6 @@ export const Home2 = styled.section `
     padding-top: 18%;
     padding-left: 10%;
     width: 550px;
-    text-align: center;
   }
 `
 
@@ -74,7 +72,6 @@ export const Home3 = styled.section `
     padding-top: 18%;
     padding-right: 10%;
     width: 580px;
-    text-align: center;
   }
 `
 
