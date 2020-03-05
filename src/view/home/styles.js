@@ -18,7 +18,7 @@ export const Home1 = styled.section `
   p {
     font-family: 'Raleway';
     font-weight: 600;
-    font-size: 24px;
+    font-size: 28px;
     padding-top: 15%;
     padding-left: 5%;
     padding-right: 10%;
@@ -49,7 +49,7 @@ export const Home2 = styled.section `
     padding-top: 18%;
     padding-left: 10%;
     width: 550px;
-    text-align: justify;
+    text-align: center;
   }
 `
 
@@ -74,7 +74,7 @@ export const Home3 = styled.section `
     padding-top: 18%;
     padding-right: 10%;
     width: 580px;
-    text-align: justify;
+    text-align: center;
   }
 `
 
